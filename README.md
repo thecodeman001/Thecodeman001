@@ -7,7 +7,7 @@
 
 <p align="center">
   <em>
-    Meet Shabbir, an AI/ML-focused <b>Full-Stack Software Engineer</b> and <b>Competitive Programming Enthusiast</b><br>
+    Meet Talha, an AI/ML-focused <b>Full-Stack Software Engineer</b> and <b>Competitive Programming Enthusiast</b><br>
     Passionate about building <b>intelligent</b> and <b>user-centric</b> applications using AI and <b>machine learning</b>. Skilled at <b>integrating</b> AI solutions into scalable web applications.<br>
     Always evolving, looking for a platform to <b>innovate</b> and <b>lead</b> in the AI-driven tech world 🚀.
   </em>
