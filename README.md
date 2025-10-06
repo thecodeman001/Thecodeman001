@@ -1,5 +1,5 @@
 <h1 align="center">Hi <img src="Hi.gif" width="30px">, I'm Talha Abbasi</h1>
-<h3 align="center">AI/ML Full Stack Software Engineer</h3>
+<h3 align="center">Senior AI/ML Engineer & Data Scientist</h3>
 <p align="center">
   <a href="#" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="LinkedIn" height="30" width="40" /></a>
   <a href="mailto:talhaa.eagle1@gmail.com"><img align="center" src="https://simpleicons.org/icons/gmail.svg" height="30" width="40" /></a>
@@ -7,7 +7,7 @@
 
 <p align="center">
   <em>
-    Meet Talha, an AI/ML-focused <b>Full-Stack Software Engineer</b> and <b>Competitive Programming Enthusiast</b><br>
+    Meet Talha, an AI/ML  <b> Software Engineer</b> and <b>Competitive Programming Enthusiast</b><br>
     Passionate about building <b>intelligent</b> and <b>user-centric</b> applications using AI and <b>machine learning</b>. Skilled at <b>integrating</b> AI solutions into scalable web applications.<br>
     Always evolving, looking for a platform to <b>innovate</b> and <b>lead</b> in the AI-driven tech world 🚀.
   </em>
@@ -16,9 +16,7 @@
 ## 🚀💻 AI & Full-Stack Development Technologies & Tools
 
 ### <u> Languages & Frameworks: </u>
-<span><img src="https://img.shields.io/badge/Ruby%20on%20Rails-red?style=for-the-badge&logo=ruby-on-rails" alt="Ruby on Rails" title="Ruby on Rails" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" title="JavaScript" height="25" /></span>
+
 &nbsp;
 <span><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" title="Python" height="25" /></span>
 &nbsp;
@@ -62,7 +60,7 @@
 <span><img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" title="MongoDB" height="25" /></span>
 
 ### <u> Mobile Development with AI Integration: </u>
-<span><img src="https://img.shields.io/badge/React%20Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native" title="React Native" height="25" /></span>
+<span><img src="https://img.shields.io/badge/React%20Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native" title="React Native" height="25" /></span>how
 
 ### <u> Version Control & Collaboration: </u>
 <span><img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="Git" title="Git" height="25" /></span>
