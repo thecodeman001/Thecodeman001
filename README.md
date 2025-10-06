@@ -20,7 +20,7 @@
 &nbsp;
 <span><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" title="Python" height="25" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="SQL" title="SQL" height="25" /></span>
+<span><img src="https://img.shields.io/badge/SQL-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="SQL" title="SQL" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="C++" title="C++" height="25" /></span>
 
