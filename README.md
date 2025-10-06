@@ -20,7 +20,12 @@
 &nbsp;
 <span><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" title="Python" height="25" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" title="HTML" height="25" /></span>
+<span><img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="SQL" title="SQL" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="C++" title="C++" height="25" /></span>
+
+&nbsp;
+<span><img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="MATLAB" title="MATLAB" height="25" /></span>
 
 ### <u> AI/ML & Backend Technologies: </u>
 <span><img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" title="TensorFlow" height="25" /></span>
