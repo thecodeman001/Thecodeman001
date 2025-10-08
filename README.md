@@ -1,91 +1,123 @@
 <h1 align="center">Hi <img src="Hi.gif" width="30px">, I'm Talha Abbasi</h1>
-<h3 align="center">Senior AI/ML Engineer & Data Scientist</h3>
+<h3 align="center">Senior AI/ML Engineer | Data Scientist | Full-Stack Innovator</h3>
+
 <p align="center">
-  <a href="#" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="LinkedIn" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/talha-abbasi" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="LinkedIn" height="30" width="40" /></a>
   <a href="mailto:talhaa.eagle1@gmail.com"><img align="center" src="https://simpleicons.org/icons/gmail.svg" height="30" width="40" /></a>
 </p>
 
+---
+
 <p align="center">
   <em>
-    Meet Talha, an AI/ML  <b> Software Engineer</b> and <b>Competitive Programming Enthusiast</b><br>
-    Passionate about building <b>intelligent</b> and <b>user-centric</b> applications using AI and <b>machine learning</b>. Skilled at <b>integrating</b> AI solutions into scalable web applications.<br>
-    Always evolving, looking for a platform to <b>innovate</b> and <b>lead</b> in the AI-driven tech world 🚀.
+    I'm <b>Talha</b> — a passionate <b>AI/ML Engineer</b> and <b>Data Scientist</b> who loves turning data into intelligent, user-centric products. <br>
+    Skilled in designing <b>end-to-end ML pipelines</b>, deploying <b>AI-powered applications</b>, and transforming ideas into production-grade solutions.<br>
+    Always exploring new boundaries in <b>Generative AI, LLMs, and MLOps</b> to build the future 🚀.
   </em>
 </p>
 
-## 🚀💻 AI & Full-Stack Development Technologies & Tools
+---
 
-### <u> Languages & Frameworks: </u>
+## 🧠💻 Core Expertise
 
+### <u>🔹 Languages & Frameworks</u>
+<span><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" title="Python" height="25" /></span>
+<span><img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/SQL-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="SQL" title="SQL" height="25" /></span>
+<span><img src="https://img.shields.io/badge/SQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="C++" title="C++" height="25" /></span>
+<span><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" /></span>
 
-&nbsp;
-<span><img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="MATLAB" title="MATLAB" height="25" /></span>
+---
 
-### <u> AI/ML & Backend Technologies: </u>
-<span><img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" title="TensorFlow" height="25" /></span>
+### <u>🤖 AI / Machine Learning Frameworks</u>
+<span><img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" title="PyTorch" height="25" /></span>
+<span><img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/scikit-learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit-learn" title="scikit-learn" height="25" /></span>
+<span><img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit-learn" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" alt="Keras" title="Keras" height="25" /></span>
+<span><img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" alt="Keras" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" title="Flask" height="25" /></span>
+<span><img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white" alt="MLflow" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/ONNX-005CED?style=for-the-badge&logo=onnx&logoColor=white" alt="ONNX" /></span>
 
-### <u> Frontend Development: </u>
-<span><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="ReactJS" title="ReactJS" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" alt="Redux" title="Redux" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS" title="TailwindCSS" height="25" /></span>
+---
 
-### <u> Cloud & DevOps Tools for AI Integration: </u>
-<span><img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" title="Amazon Web Services" height="25" /></span>
+### <u>📊 Data Science & Analytics</u>
+<span><img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" title="Docker" height="25" /></span>
+<span><img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="Numpy" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" title="Kubernetes" height="25" /></span>
+<span><img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white" alt="Matplotlib" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/Seaborn-9A1E2A?style=for-the-badge" alt="Seaborn" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white" alt="Plotly" /></span>
 
-### <u> AI/ML APIs & Integrations: </u>
-<span><img src="https://img.shields.io/badge/OpenAI-FF8C00?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI" title="OpenAI" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/Google%20AI-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google AI" title="Google AI" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/IBM%20Watson-0064A5?style=for-the-badge&logo=ibm&logoColor=white" alt="IBM Watson" title="IBM Watson" height="25" /></span>
+---
 
-### <u> Data & Database Technologies: </u>
-<span><img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" title="PostgreSQL" height="25" /></span>
+### <u>🧬 Deep Learning & Generative AI</u>
+<span><img src="https://img.shields.io/badge/LLMs-GPT--4-412991?style=for-the-badge&logo=openai&logoColor=white" alt="LLMs" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" title="MongoDB" height="25" /></span>
+<span><img src="https://img.shields.io/badge/LangChain-121212?style=for-the-badge&logo=openai&logoColor=white" alt="LangChain" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/HuggingFace-FFCC00?style=for-the-badge&logo=huggingface&logoColor=black" alt="HuggingFace" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/Transformers-FF6F00?style=for-the-badge&logo=python&logoColor=white" alt="Transformers" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI API" /></span>
 
-### <u> Mobile Development with AI Integration: </u>
-<span><img src="https://img.shields.io/badge/React%20Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native" title="React Native" height="25" /></span>how
+---
 
-### <u> Version Control & Collaboration: </u>
-<span><img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="Git" title="Git" height="25" /></span>
+### <u>☁️ Cloud, MLOps & Backend</u>
+<span><img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" title="GitHub" height="25" /></span>
+<span><img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit" /></span>
 
-### <u> AI-Powered API Integrations:</u>
-<span><img src="https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=twilio&logoColor=white" alt="Twilio" title="Twilio API" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/Stripe-008CDD?style=for-the-badge&logo=stripe&logoColor=white" alt="Stripe" title="Stripe API" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" title="Facebook API" height="25" /></span>
+---
 
-### <u> Operating Systems & Tools:</u>
-<span><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" title="Linux" height="25" /></span>
+### <u>🗄️ Databases & Data Pipelines</u>
+<span><img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu" title="Ubuntu" height="25" /></span>
+<span><img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apache-airflow&logoColor=white" alt="Airflow" /></span>
 
-### <u> Learning & Exploring AI/ML:</u>
-<span><img src="https://img.shields.io/badge/Machine%20Learning-FFD700?style=for-the-badge&logo=google&logoColor=black" alt="Machine Learning" title="Machine Learning" height="25" /></span>
+---
+
+### <u>🧩 Frontend & Visualization</u>
+<span><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/Deep%20Learning-1D1D1D?style=for-the-badge&logo=keras&logoColor=white" alt="Deep Learning" title="Deep Learning" height="25" /></span>
+<span><img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS" /></span>
 &nbsp;
+<span><img src="https://img.shields.io/badge/D3.js-F9A03C?style=for-the-badge&logo=d3.js&logoColor=white" alt="D3.js" /></span>
+
+---
+
+### <u>⚙️ Tools, Version Control & OS</u>
+<span><img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="Git" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu" /></span>
+
+---
+
+<p align="center">
+  🚀 <b>Focused on building scalable AI systems, deploying ML pipelines to production, and transforming real-world data into impactful insights.</b>
+</p>
