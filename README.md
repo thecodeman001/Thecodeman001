@@ -1,4 +1,3 @@
-<h1 align="center">Hi <img src="Hi.gif" width="30px">, I'm Talha Abbasi</h1>
 <h3 align="center">Senior AI/ML Engineer | Data Scientist | Full-Stack Innovator</h3>
 
 <p align="center">
